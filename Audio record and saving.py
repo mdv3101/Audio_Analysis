@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-This code will record an audio and store it in numpy array. 
+This code will record an audio and store it in numpy array using sounddevice. 
 It will then ask the user to enter it's name which could be use as file name.
 Created on Sun Jun 25 17:31:18 2017
 
